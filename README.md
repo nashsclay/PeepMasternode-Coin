@@ -1,0 +1,2 @@
+# PeepMasternode-Coin
+PeepMasternode Coin
